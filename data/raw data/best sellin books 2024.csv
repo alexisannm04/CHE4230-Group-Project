@@ -4,8 +4,8 @@ id,Book name,Author,Rating,reviews count,form,price,Reading age,Print Length,Pub
 #3,Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones,James Clear,4.8 out of 5 stars,145747,Hardcover,$18.88,,320,"October 16, 2018",Self-Improvement
 #4,Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J. D. Vance,4.4 out of 5 stars,124288,Paperback,$13.51,,288,"May 1, 2018",History
 #5,The Housemaid,Freida McFadden,4.5 out of 5 stars,653111,Paperback,$9.69,,336,"August 23, 2022",Mystery & Thriller & Suspense
-#6,"Mom, I Want to Hear Your Story: A Mother’s Guided Journal To Share Her Life & Her Love (Hear Your Story Books)","Jeffrey Mason , Hear Your Story",4.7 out of 5 stars,20096,Paperback,$11.95,,108,"July 19, 2019",Parenting & Relationships
-#7,"Dad, I Want to Hear Your Story: A Father’s Guided Journal To Share His Life & His Love (Hear Your Story Books)","Jeffrey Mason, Hear Your Story",4.7 out of 5 stars,13431,Paperback,$8.79,,110,"May 27, 2019",Arts & Music & Photography
+#6,"Mom, I Want to Hear Your Story: A Motherâ€™s Guided Journal To Share Her Life & Her Love (Hear Your Story Books)","Jeffrey Mason , Hear Your Story",4.7 out of 5 stars,20096,Paperback,$11.95,,108,"July 19, 2019",Parenting & Relationships
+#7,"Dad, I Want to Hear Your Story: A Fatherâ€™s Guided Journal To Share His Life & His Love (Hear Your Story Books)","Jeffrey Mason, Hear Your Story",4.7 out of 5 stars,13431,Paperback,$8.79,,110,"May 27, 2019",Arts & Music & Photography
 #8,The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness,Jonathan Haidt,4.6 out of 5 stars,11570,Hardcover,$14.01,,400,"March 26, 2024",Parenting & Relationships
 #9,It Ends with Us: A Novel,Colleen Hoover,4.7 out of 5 stars,405311,Paperback,$9.03,,384,"August 2, 2016",Fiction & Action & Adventure
 #10,Good Energy: The Surprising Connection Between Metabolism and Limitless Health,Casey Means MD,4.6 out of 5 stars,5091,Hardcover,$14.88,,400,"May 14, 2024",Health & Fitness & Dieting
@@ -62,7 +62,7 @@ id,Book name,Author,Rating,reviews count,form,price,Reading age,Print Length,Pub
 #61,A Court of Silver Flames,Sarah J. Maas,4.8 out of 5 stars,246467,Paperback,$9.98,,784,"September 6, 2022",Fiction & Action & Adventure
 #62,First Lie Wins,Ashley Elston,4.3 out of 5 stars,100479,Hardcover,$3.00,,352,"January 2, 2024",Mystery & Thriller & Suspense
 #63,How to Win Friends & Influence People,Dale Carnegie ,4.7 out of 5 stars,109703,Paperback,$15.44,,320,"October 1, 1998",Self-Improvement
-#64,The Complete Cookbook for Young Chefs,America’s Test Kitchen Kids,4.8 out of 5 stars,25279,Hardcover,$9.40,8 years and up,208,16/10/2018,Cookbooks & Food
+#64,The Complete Cookbook for Young Chefs,Americaâ€™s Test Kitchen Kids,4.8 out of 5 stars,25279,Hardcover,$9.40,8 years and up,208,16/10/2018,Cookbooks & Food
 #65,The Teacher,Freida McFadden,4.3 out of 5 stars,243379,Paperback,$9.53,,400,"February 6, 2024",Mystery & Thriller & Suspense
 #66,Just for the Summer,Abby Jimenez,4.6 out of 5 stars,145297,Paperback,$2.70,,432,"April 2, 2024",Fiction & Action & Adventure
 #67,Fuzzy Hygge: Cute and Cozy Coloring Book,Vivi Tinta,4.8 out of 5 stars,5807,Paperback,$9.63,,88,24/05/2024,Arts & Music & Photography
@@ -78,7 +78,7 @@ id,Book name,Author,Rating,reviews count,form,price,Reading age,Print Length,Pub
 #77,Be Ready When the Luck Happens,Ina Garten,4.6 out of 5 stars,13716,Hardcover,$13.73,,320,"October 1, 2024",Biographies & Memoirs
 #78,Happy Birthday to You!,Dr. Seuss,4.8 out of 5 stars,17396,Hardcover,$9.49,1 year and up,64,12/08/1959,Reading & Writing
 #79,If He Had Been with Me,Laura Nowlin,4.2 out of 5 stars,60754,Paperback,$6.88,,400,"November 1, 2019",Fiction & Action & Adventure
-#80,"Dad, I Want to Hear Your Story: A Father’s Guided Journal To Share His Life & His Love (Hear Your Story Books)","Jeffrey Mason, Hear Your Story",4.7 out of 5 stars,13431,Paperback,$8.79,,110,27/05/2019,Arts & Music & Photography
+#80,"Dad, I Want to Hear Your Story: A Fatherâ€™s Guided Journal To Share His Life & His Love (Hear Your Story Books)","Jeffrey Mason, Hear Your Story",4.7 out of 5 stars,13431,Paperback,$8.79,,110,27/05/2019,Arts & Music & Photography
 #81,The Rainbow Fish,Marcus Pfister,4.8 out of 5 stars,8150,Board book,$4.70,3 - 4 years,12,27/01/1999,Reading & Writing
 #82,Wind and Truth: Book Five of the Stormlight Archive,Brandon Sanderson,4.7 out of 5 stars,31249,Hardcover,$19.99,,1344,"December 6, 2024",Fiction & Action & Adventure
 #83,If Only I Had Told Her,Laura Nowlin,4.3 out of 5 stars,14292,Paperback,$6.34,15 years and up,416,"February 6, 2024",Fiction & Action & Adventure
@@ -88,7 +88,7 @@ id,Book name,Author,Rating,reviews count,form,price,Reading age,Print Length,Pub
 #87,Haunting Adeline,H. D. Carlton,4.4 out of 5 stars,163368,Paperback,$17.18,,627,"August 13, 2021",Mystery & Thriller & Suspense
 #88,The Hardest Hidden Pictures Book Ever,Highlights,4.7 out of 5 stars,8907,Paperback,$6.70,6 years and up,144,"March 9, 2021",Arts & Music & Photography
 #89,Bluey: Big Backyard: A Coloring Book,Penguin Young Readers Licenses,4.8 out of 5 stars,7381,Paperback,$2.65,2 years and up,64,"February 23, 2021",Arts & Music & Photography
-#90,"Mom, I Want to Hear Your Story: A Mother’s Guided Journal To Share Her Life & Her Love (Hear Your Story Books)","Jeffrey Mason , Hear Your Story",4.7 out of 5 stars,20096,Paperback,$11.95,,108,19/07/2019,Parenting & Relationships
+#90,"Mom, I Want to Hear Your Story: A Motherâ€™s Guided Journal To Share Her Life & Her Love (Hear Your Story Books)","Jeffrey Mason , Hear Your Story",4.7 out of 5 stars,20096,Paperback,$11.95,,108,19/07/2019,Parenting & Relationships
 #91,The Creative Act: A Way of Being,Rick Rubin,4.7 out of 5 stars,10805,Hardcover,$16.99,,432,"January 17, 2023",Health & Fitness & Dieting
 #92,Taylor Swift: A Little Golden Book Biography,"Wendy Loggia, Elisa Chavarri",4.9 out of 5 stars,9344,Hardcover,$4.35,5 years and up,24,"May 2, 2023",Arts & Music & Photography
 #93,The Action Bible: God's Redemptive Story,Sergio Cariello,4.9 out of 5 stars,13299,Hardcover,$24.34,8 years and up,832,"September 1, 2020",Bible Study & Reference
